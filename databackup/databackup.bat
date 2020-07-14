@@ -1,0 +1,1 @@
+exp bspi/bspi@orcl file=E:\project\databackup\bspi_backup
